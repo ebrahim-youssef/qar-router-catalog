@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "itqan-reciter-fetcher"
+version = "0.1.0"
+description = "Fetch and validate Quran reciter catalogs"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+fetch-reciters = "reciter_fetcher.cli:main"
+audit-reciters = "reciter_fetcher.audit_cli:main"
+generate-catalog = "reciter_fetcher.catalog_cli:main"
+bootstrap-catalog = "reciter_fetcher.bootstrap_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

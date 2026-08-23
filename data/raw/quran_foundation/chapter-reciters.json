@@ -1,0 +1,384 @@
+{
+  "reciters": [
+    {
+      "id": 19,
+      "name": "Ahmed ibn Ali al-Ajmy",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Ahmed ibn Ali al-Ajmy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Abdullah Ali Jabir",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Abdullah Ali Jabir",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Bandar Baleela",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Bandar Baleela",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Maher al-Muaiqly",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Maher al-Muaiqly",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Abdul Basit Abdul Samad",
+      "style": {
+        "name": "Mujawwad",
+        "translated_name": {
+          "name": "Mujawwad",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "AbdulBaset AbdulSamad [Mujawwad]",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mahmoud Khaleel Al-Husary",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Mahmoud Khaleel Al-Husary",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Abdul Basit Abdul Samad",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Abdul Baset Abdul Samad",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mishari Rashid al-`Afasy",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Mishari Rashid al-`Afasy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Abdur-Rahman as-Sudais",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Abdur-Rahman as-Sudais",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Muhammad Siddiq al-Minshawi",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Muhammad Siddiq al-Minshawi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Abu Bakr al-Shatri",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Abu Bakr al-Shatri",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Sa`ud ash-Shuraym",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Sa`ud ash-Shuraym",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Khalifah Al Tunaiji",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Khalifah Taniji",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Saad al-Ghamdi",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Saad al-Ghamdi",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hani ar-Rifai",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Hani ar-Rifai",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 175,
+      "name": "Abdullah Hamad Abu Sharida",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Abdullah Hamad Abu Sharida",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Mahmoud Khalil Al-Husary",
+      "style": {
+        "name": "Muallim",
+        "translated_name": {
+          "name": "Muallim",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Mahmoud Khaleel Al-Husary",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 173,
+      "name": "Mishari Rashid al-`Afasy Streaming",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Mishari Rashid al-`Afasy",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Muhammad Siddiq al-Minshawi(with kids)",
+      "style": {
+        "name": "Kids repeat",
+        "translated_name": {
+          "name": "Kids repeat",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Muhammad Siddiq al-Minshawi(with kids)",
+        "language_name": "english"
+      }
+    },
+    {
+      "id": 174,
+      "name": "Yasser ad-Dussary",
+      "style": {
+        "name": "Murattal",
+        "translated_name": {
+          "name": "Murattal",
+          "language_name": "english"
+        }
+      },
+      "qirat": {
+        "name": "Hafs",
+        "language_name": "english"
+      },
+      "translated_name": {
+        "name": "Yasser ad-Dussary",
+        "language_name": "english"
+      }
+    }
+  ]
+}
